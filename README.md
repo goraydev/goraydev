@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Gerson Aguedo Yanac</h1>
 <h3 align="center">Beginner in front-end development and you can tell me Goraycode</h3>
 <hr>
-<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iiti68udq9o3pjij8t20rvybj4tik3tncnpnry3f&rid=giphy.gif&ct=g">
+<img align="right" width="40%" src="https://lh3.googleusercontent.com/hzAiSQ4YFaJ0D5Tc_tZ-VayH3yr86msh0_i2zU-kbssqr0fKx1viw-lkx2jRSySzvXTZJSw_BWZbi8S-T5iT0BrkU3yBUZRG9ZspVikkIS3hK8pQDSbhZ7ycp9BDMSP3Rn8x_GPGljGwjsZ7k52yRv5uewOewTitEvLW52U-QxmhRs9de0RxpG_w2vZTaTvZfpIbP3Jkc6KafDX5DlYiqTFLYb5jibZggHop9jGKnnX3xp1nF53vaw9Da1xlP6RGL7r1KkwftIkWVp9KqXKENp645cUUkIyE1w9NG4NxUvOi68SjrY7NkYRIqmFg3uyX_j7t6FBHiAKDwgzTvLK-VhKpptGDOSse9JfxitJHynpSwbCpHIq_mOqod1p8DjsUFF4xT01tRfRUevP4YgyOXMt-9XmmEjZ6JK-QjW0WQ0JusHhaao_3Pnh3Kyb5hF3xTIO_sb25mGSyiKUKqsebXS3zs-3AMGBxD6tZWYLh-JHGB-Xy9MnRDoRF_R6I6ZAP_4lZO5dLj4mbvrYk0CWZRarMNgV6oyYboeehz5MmWpLhfIndrfkEEkOMOpg5c8N2Ul5xv24mP0migkrXEhNMCKaOA66aNysANfFCO3Su9ZTMHoPG-Mi1JR5wiLcBpBEH_q6KlUeF1bnIMTBamWtZrDwLu576AHSrZcUo_TlwZnjKZ1Nxl6yOdtdapEN8kqG9vIG4spalYGd4fmMtR51gau9k=s640-no?authuser=0">
 <h3 align="left">About me:</h3>
 <p>I'm a front end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. </p>
 <hr>
