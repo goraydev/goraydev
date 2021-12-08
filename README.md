@@ -21,3 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&title_color=39bed5&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
