@@ -18,7 +18,7 @@
 </p>
 <hr>
 <p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
 <img align ="left "src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&title_color=39bed5&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
 
