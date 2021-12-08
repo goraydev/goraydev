@@ -17,4 +17,5 @@
 <a href="https://www.youtube.com/channel/UCEVv5L2Cgbg6t1a6I-oD9eA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucevv5l2cgbg6t1a6i-od9ea" height="30" width="40" /></a>
 </p>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&title_color=39bed5&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
