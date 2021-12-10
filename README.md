@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋 I'm Gerson Aguedo Yanac</h1>
 <h3 align="center">Beginner in front-end development and you can tell me Goraycode</h3>
 <hr>
-<img align="right" width="50%" src="https://lh3.googleusercontent.com/Bhu5irKJ54Ozlbg2CFDFrUd81ANohnCs7PFv4XDRCVDftHw9jzkhGt0emcNUdAtE96dNa9i--wmNYsIx9zVt6p6M2JRGqbq_zuVm7XcfOKmLPbNKqr3wEWKVcjMZDCkvgfjOwBqfZFx_B_oxolz3wFfvKUctBySNZFoza6DpGU21hUXQ_AI1SfDR5WxQ7US-iEGhDeKHD0-3nZRVJz3FMqygcfwGRPQuuVTpHiyBDOf48u-JS0R7tD38Tvn74uAHNI1ChIr7PbkpiZ1kdNWFpp3xQn9xGgsrR3PyIzTXrnxne09E3H_hwMprs75WC0moUym5qPKrM9OXhSdaodLuaYvczMHwYT5VDKNbkvVw5j9Roam9s6JbxsipUMTnoyHI7-ioluJ8PGCrdxdvG1ZFrUBnaO_TR4ArRCRDo40wA2l3T4Z7-KS7pe3IYbbjfmEpuogEzdRGFtH6g8euNs-kxb8HZzE_cRvpksRE_cZEv0weFTD51bZLGOZFpgWNUfE_4YhmuOcnDlN5zIjUCzDcSuMegvX05lz0hf8eSKwIkHu1fkxf53fAr-Isaw-lxy9Lb0CvX1HX10rt_7KMaILS4GptskD8pwUOV0QTOBIstw5IRGmgBLTI6g1PzYThr7X9j8zfH0z9WYsffKMw4QXA0_3iA0N7TRyIhUxFsr488o2rTb9YzOJhVrdJ88t-HSOHfsgHGeid_ZqjlVZE-XEbxqIY=w1027-h732-no?authuser=0">
+<img align="right" width="60%" src="https://lh3.googleusercontent.com/Bhu5irKJ54Ozlbg2CFDFrUd81ANohnCs7PFv4XDRCVDftHw9jzkhGt0emcNUdAtE96dNa9i--wmNYsIx9zVt6p6M2JRGqbq_zuVm7XcfOKmLPbNKqr3wEWKVcjMZDCkvgfjOwBqfZFx_B_oxolz3wFfvKUctBySNZFoza6DpGU21hUXQ_AI1SfDR5WxQ7US-iEGhDeKHD0-3nZRVJz3FMqygcfwGRPQuuVTpHiyBDOf48u-JS0R7tD38Tvn74uAHNI1ChIr7PbkpiZ1kdNWFpp3xQn9xGgsrR3PyIzTXrnxne09E3H_hwMprs75WC0moUym5qPKrM9OXhSdaodLuaYvczMHwYT5VDKNbkvVw5j9Roam9s6JbxsipUMTnoyHI7-ioluJ8PGCrdxdvG1ZFrUBnaO_TR4ArRCRDo40wA2l3T4Z7-KS7pe3IYbbjfmEpuogEzdRGFtH6g8euNs-kxb8HZzE_cRvpksRE_cZEv0weFTD51bZLGOZFpgWNUfE_4YhmuOcnDlN5zIjUCzDcSuMegvX05lz0hf8eSKwIkHu1fkxf53fAr-Isaw-lxy9Lb0CvX1HX10rt_7KMaILS4GptskD8pwUOV0QTOBIstw5IRGmgBLTI6g1PzYThr7X9j8zfH0z9WYsffKMw4QXA0_3iA0N7TRyIhUxFsr488o2rTb9YzOJhVrdJ88t-HSOHfsgHGeid_ZqjlVZE-XEbxqIY=w1027-h732-no?authuser=0">
 <h3 align="left">About me:</h3>
-<p>I'm a front end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. </p>
+<p>I'm a front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. </p>
+<ul>
+  <li>📚💻 Always ready to learn more</li>
+  <li>💙🔍Currently study -> Reactjs </li>
+  <li>🤝🙌 I'm looking to collaborate on amazing projects in the future and be part of incredible team </li>
+</ul>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 
