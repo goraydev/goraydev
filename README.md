@@ -3,7 +3,7 @@
 <hr>
 <img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
 <h3 align="left">About me:</h3>
-<p>I'm a front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. </p>
+<p>I'm a front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. hola</p>
 <ul>
   <li>📚💻 Always ready to learn more</li>
   <li>💙🔍Currently study -> Reactjs </li>
@@ -24,7 +24,9 @@
 </p>
 <hr>
 <p align="center" width="100%">
-<img  src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=FFFFFF&theme=dark" alt="goraycode's GitHub Stats" />
+
+ ![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&title_color=39bed5&icon_color=39bed5&text_color=fff&theme=dark)
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&title_color=39bed5&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
 
