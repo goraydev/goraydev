@@ -27,6 +27,5 @@
 
 ![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=goraycode)
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
-</p>
+
 
