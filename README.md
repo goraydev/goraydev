@@ -25,7 +25,7 @@
 <hr>
 <p align="center" width="100%">
 
-![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&theme=dark)
+![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=goraycode)
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
