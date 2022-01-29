@@ -3,7 +3,7 @@
 <hr>
 <img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
 <h3 align="left">About me:</h3>
-<p>I'm a front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. hola</p>
+<p>I'm a front-end developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.</p>
 <ul>
   <li>📚💻 Always ready to learn more</li>
   <li>💙🔍Currently study -> Reactjs </li>
