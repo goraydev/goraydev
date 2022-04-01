@@ -23,5 +23,7 @@
 </p>
 <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
+<img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
+</p>
