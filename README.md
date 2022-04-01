@@ -24,8 +24,8 @@
 <hr>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
+ <img float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
+<img float="right" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
 </p>
   
 
