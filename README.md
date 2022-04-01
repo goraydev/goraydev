@@ -28,5 +28,5 @@
 <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting :crossed_fingers:
 ![VisitorCount](https://profile-counter.glitch.me/goraycode/count.svg)
