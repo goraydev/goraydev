@@ -22,10 +22,10 @@
 <a href="https://gersonaguedoyanac.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="goraycode" height="40" width="40" /></a>
 </p>
 <hr>
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
-</p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
+</div>
   
 
 
