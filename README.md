@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gerson Aguedo Yanac</h1>
-<h3 align="center">Beginner in front-end development and you can tell me Goraycode</h3>
+<h3 align="center">Beginner in front-end development and you can tell me Goraydev</h3>
 
 <img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
 <h3 align="left">About me:</h3>
@@ -16,17 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/goraycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goraycode" height="30" width="40" /></a>
+<a href="https://twitter.com/goraydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goraydev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gerson-aguedo-yanac-aa949b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerson-aguedo-yanac-aa949b1b5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/goraycode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/goraycode/" height="30" width="40" /></a>
-<a href="https://gersonaguedoyanac.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="goraycode" height="40" width="40" /></a>
+<a href="https://www.instagram.com/goraydev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/goraydev/" height="30" width="40" /></a>
+<a href="https://gersonaguedoyanac.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="goraydev" height="40" width="40" /></a>
 </p>
 <hr>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=goraycode&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
-<img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraycode&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=goraydev&show_icons=true&icon_color=39bed5&text_color=fff&title_color=39bed5&theme=dark" alt="My Github Stats">
+<img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraydev&layout=compact&text_color=FFFFFF&theme=dark" alt="My Github Stats">
 </p>
 
 #### Thanks for visiting :crossed_fingers:
-![VisitorCount](https://profile-counter.glitch.me/goraycode/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/goraydev/count.svg)
